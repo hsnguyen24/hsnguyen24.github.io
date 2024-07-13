@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm an incoming M.S. student at Oregon State University, advised by [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). I received my B.Eng. in Artificial Intelligence (first-class honours) from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on graph signal processing. My current research focuses on principled methods for unsupervised deep learning, with provable guarantees on identifiability, robustness, and sample complexity.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** deep generative models with theoretical analysis
+- **Signal Processing:** graph learning from network data
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July 2024]** Our work about low-pass graph signal detection (under partial observations) is awarded Best Student Paper Award at IEEE SAM 2024!
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
