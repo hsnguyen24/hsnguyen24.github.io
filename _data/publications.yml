@@ -4,8 +4,9 @@ main:
     authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
     # conference_short: SAM
     conference: IEEE Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>, 2024.
-    url: https://arxiv.org/abs/2405.10001
+    pdf: https://arxiv.org/pdf/2405.10001
     poster: ./assets/files/sam2024_poster.pdf
+    url: https://arxiv.org/abs/2405.10001
     # page: https://arxiv.org/abs/2405.10001
     # image: ./assets/img/teaser_example_2.png
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -17,8 +18,9 @@ main:
     authors: <strong>Hoang-Son Nguyen</strong>, Yiran He, Hoi-To Wai
     # conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2022.
-    url: https://ieeexplore.ieee.org/abstract/document/9747181/
+    pdf: https://arxiv.org/pdf/2110.07234
     slides: ./assets/files/icassp2022_slides.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/9747181/
     poster: ./assets/files/icassp2022_poster.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://ieeexplore.ieee.org/abstract/document/9747181/
