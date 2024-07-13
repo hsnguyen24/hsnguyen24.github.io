@@ -2,10 +2,12 @@ main:
 
   - title: "On Detecting Low-pass Graph Signals under Partial Observations"
     authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
-    conference_short: SAM
+    # conference_short: SAM
     conference: IEEE Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>, 2024.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    page: https://arxiv.org/abs/2405.10001
+    url: https://arxiv.org/abs/2405.10001
+    poster: ./assets/files/sam2024_poster.pdf
+    # page: https://arxiv.org/abs/2405.10001
+    # image: ./assets/img/teaser_example_2.png
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
@@ -13,11 +15,13 @@ main:
 
   - title: "On the Stability of Low Pass Graph Filter with a Large Number of Edge Rewires"
     authors: <strong>Hoang-Son Nguyen</strong>, Yiran He, Hoi-To Wai
-    conference_short: ICASSP
+    # conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2022.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/9747181/
+    slides: ./assets/files/icassp2022_slides.pdf
+    poster: ./assets/files/icassp2022_poster.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://ieeexplore.ieee.org/abstract/document/9747181/
+    # page: https://ieeexplore.ieee.org/abstract/document/9747181/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
