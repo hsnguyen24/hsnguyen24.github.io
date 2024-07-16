@@ -15,7 +15,7 @@ I'm an incoming M.S. student at Oregon State University, advised by [Prof. Xiao 
 
 {% include_relative _includes/publications.md %}
 
-## Honors and Awards (selected)
+## Honors and Awards
 
 - Best Student Paper Award, IEEE SAM 2024
 - Professor Charles K. Kao Research Exchange Scholarship, 2023
