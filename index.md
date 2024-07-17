@@ -11,7 +11,7 @@ I'm an incoming M.S. student at Oregon State University, advised by [Prof. Xiao 
 
 ## News
 
-- **[July 2024]** Our work on low-pass graph signal detection (under partial observations) is awarded [Best Student Paper Award at IEEE SAM 2024](https://bit.ly/sam24bspa) :confetti_ball:
+- **[July 2024]** Our work on low-pass graph signal detection (under partial observations) was awarded [Best Student Paper Award at IEEE SAM 2024](https://bit.ly/sam24bspa)!
 
 {% include_relative _includes/publications.md %}
 
