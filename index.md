@@ -11,14 +11,16 @@ I'm an incoming M.S. student at Oregon State University, advised by [Prof. Xiao 
 
 ## News
 
-- **[July 2024]** Our work on low-pass graph signal detection (under partial observations) is awarded Best Student Paper Award at IEEE SAM 2024!
+- **[July 2024]** Our work on low-pass graph signal detection (under partial observations) is awarded [Best Student Paper Award at IEEE SAM 2024](https://bit.ly/sam24bspa) :confetti_ball:
 
 {% include_relative _includes/publications.md %}
 
-## Honors and Awards
+## Honors and Awards (selected)
 
-- Best Student Paper Award, IEEE SAM 2024
+- Best Student Paper Award at IEEE SAM, 2024
 - Professor Charles K. Kao Research Exchange Scholarship, 2023
-- Undergraduate Admission Scholarship, 2019 
+- Dean's List, 2019-23
+- Department Outstanding Academic Performance Award, 2021
+- Undergraduate Admission Scholarship, 2019
 
 <!-- {% include_relative _includes/services.md %} -->
