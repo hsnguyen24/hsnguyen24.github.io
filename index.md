@@ -11,7 +11,7 @@ I'm a M.S. student at Oregon State University, working as a graduate research as
 
 ## News
 
-- **[July 2024]** Our work on low-pass graph signal detection (under partial observations) was awarded [Best Student Paper Award at IEEE SAM 2024](https://bit.ly/sam24bspa)!
+- **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded [Best Student Paper Award at IEEE SAM 2024](./assets/img/sam2024_award.jpg)!
 
 {% include_relative _includes/publications.md %}
 
