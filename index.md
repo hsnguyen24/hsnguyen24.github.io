@@ -7,7 +7,7 @@ layout: homepage
 I'm Sean, a M.S. student at Oregon State University working as a graduate research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). I received my B.Eng. in Artificial Intelligence (with first-class honours) from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai). My current research focuses on principled methods for unsupervised deep learning, with provable guarantees on identifiability, robustness, and sample complexity. Outside of work, my hobbies are writing and cooking.
 
 - **Machine Learning:** deep generative models, matrix factorization
-- **Signal Processing:** graph learning and signal processing for network science
+- **Signal Processing:** graph learning and graph signal processing for network science
 
 ## News
 
