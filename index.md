@@ -4,10 +4,7 @@ layout: homepage
 
 ## About
 
-I'm Sean, a M.S. student at Oregon State University working as a graduate research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). I received my B.Eng. in Artificial Intelligence (with first-class honours) from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai). My current research focuses on principled methods for unsupervised deep learning, with provable guarantees on identifiability and robustness. Outside of work, my hobbies are writing, cooking, and photography.
-
-- **Machine Learning:** unsupervised deep learning, matrix factorization
-- **Signal Processing:** graph learning and graph signal processing for network science
+I'm Sean, a M.S. student at Oregon State University working as a graduate research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). I received my B.Eng. in Artificial Intelligence (with first-class honours) from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on graph signal processing. My current research focuses on principled methods for matrix factorization and unsupervised deep learning, with provable guarantees on identifiability and robustness. Outside of work, my hobbies are writing, cooking, and photography.
 
 ## News
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and Artificial Intelligence, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are available [here](./assets/files/Talk_at_NEU_2024.pdf) (many thanks to Prof. Wai for presentation materials).
