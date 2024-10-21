@@ -12,12 +12,9 @@ I'm Sean, a M.S. student at Oregon State University working as a graduate resear
 
 {% include_relative _includes/publications.md %}
 
-## Honors and Awards (selected)
+## Awards
 
 - Best Student Paper Award at IEEE SAM, 2024
 - Professor Charles K. Kao Research Exchange Scholarship, 2023
-- Dean's List, 2019-23
-- Department Outstanding Academic Award, 2021
-- Undergraduate Admission Scholarship, 2019
 
 <!-- {% include_relative _includes/services.md %} -->
