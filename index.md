@@ -11,7 +11,7 @@ graph signal processing, matrix factorization, unsupervised deep learning
 
 ## News
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and Artificial Intelligence, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are available [here](./assets/files/Talk_at_NEU_2024.pdf) (many thanks to Prof. Wai for presentation materials).
-- **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded [Best Student Paper Award at IEEE SAM 2024](./assets/img/sam2024_award.jpg)!
+- **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded Best Student Paper Award at IEEE SAM 2024!
 
 {% include_relative _includes/publications.md %}
 
