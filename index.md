@@ -19,5 +19,6 @@ graph signal processing, matrix factorization, unsupervised deep learning
 
 - Best Student Paper Award at IEEE SAM, 2024
 - Professor Charles K. Kao Research Exchange Scholarship, 2023
+- University Admission Scholarship, 2019
 
 <!-- {% include_relative _includes/services.md %} -->
