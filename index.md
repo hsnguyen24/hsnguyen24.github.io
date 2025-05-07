@@ -10,7 +10,7 @@ I'm Sean, an M.S. student at Oregon State University working as a graduate resea
 deep representation learning, identifiability, causality, graph learning, matrix factorization
 
 ## News
-- **[April 2025]** Our work on robustness of learning graph topology under partial observations was accepted at the Graph Signal Processing Workshop 2025.
+- **[April 2025]** Our work on robustness of learning graph topology under partial observations was accepted at the Graph Signal Processing Workshop 2025; the poster is available [here](./assets/files/GSPW2025_Poster.pdf).
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and Artificial Intelligence, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are available [here](./assets/files/Talk_at_NEU_2024.pdf) (many thanks to Prof. Wai for presentation materials).
 - **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded Best Student Paper Award at IEEE SAM 2024!
 
