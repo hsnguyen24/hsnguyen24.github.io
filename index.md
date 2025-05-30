@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I'm Sean, an M.S. student at Oregon State University working as a graduate research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on representation learning and self-supervised learning, guided by principles of model identifiability, data efficiency, and robustness, with an eye for practical applications in causal representation learning, domain translation, and aligning large foundation models. I received my B.Eng. in Artificial Intelligence from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on robust graph signal processing and graph learning methods. Outside of work, my hobbies are writing, cooking, and photography.
+I'm Sean, an M.S. student at Oregon State University working as a research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on representation learning and self-supervised learning, guided by principles of model identifiability and robustness, with an eye for applications in domain translation and aligning large foundation models. I received my B.Eng. in Artificial Intelligence from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on robust graph signal processing and graph learning methods. Outside of work, my hobbies are writing, cooking, and photography.
 
 Feel free to ping me an email for a coffee chat, work-related or not!
 
