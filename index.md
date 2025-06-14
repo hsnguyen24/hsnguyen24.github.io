@@ -4,12 +4,12 @@ layout: homepage
 
 ## About
 
-I'm Sean, an M.S. student at Oregon State University working as a research assistant with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on representation learning and self-supervised learning, guided by principles of model identifiability and robustness, with an eye for applications in domain translation and aligning large foundation models. I received my B.Eng. in Artificial Intelligence from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on robust graph signal processing and graph learning methods. Outside of work, my hobbies are writing, cooking, and photography.
+I'm Sean, a first-year M.S. student at Oregon State University working with [Prof. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on representation learning and self-supervised learning guided by principles of identifiability and robustness, with applications in domain translation and multimodal learning. I received my B.Eng. in Artificial Intelligence from The Chinese University of Hong Kong in March 2024, working with [Prof. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on graph signal processing and graph learning methods. Outside of work, my hobbies are writing, cooking, and photography.
 
 Feel free to ping me an email for a coffee chat, work-related or not!
 
 ## Research Interests
-deep representation learning, causality, graph learning, matrix factorization, LLM alignment, domain translation
+deep representation learning, causality, graph learning, matrix factorization, domain translation, multimodality
 
 ## News
 - **[April 2025]** Our contribution on robustness of learning graph topology under partial observations was accepted at the Graph Signal Processing Workshop 2025; the abstract is [here](./assets/files/GSPW2025_Paper.pdf) and poster is available [here](./assets/files/GSPW2025_Poster.pdf).
