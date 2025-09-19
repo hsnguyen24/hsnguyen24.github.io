@@ -14,7 +14,9 @@ Feel free to ping me an email for a coffee chat, work-related or not!
 representation learning, self-supervised learning, graph learning, graph signal processing, matrix factorization, domain translation, multimodal learning
 
 ## News
-- **[April 2025]** Our contribution on robustness of learning graph topology under partial observations was accepted at the Graph Signal Processing Workshop 2025; the abstract is [here](./assets/files/GSPW2025_Paper.pdf) and poster is available [here](./assets/files/GSPW2025_Poster.pdf).
+- **[Sep. 2025]** Diverse Influence Component Analysis is accepted at NeuRIPS 2025. We presented a new approach to the hard problem of identifiable nonlinear mixture learning, relying on a geometric diversity pattern in Jacobian matrix of mixing function; initial applications for single-cell biology and disentanglement in computer vision are explored. A preprint is coming soon.
+- **[Sep. 2025]** A preprint on learning graph under partial observation is available [here](https://arxiv.org/abs/2509.14887)! In this work, we show that the objective functions for graph learning is implicit robust to missing data, as long as the signals are smooth on the graph.
+- **[April 2025]** Our contribution on graph learning under partial observation was accepted at the Graph Signal Processing Workshop 2025. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and Artificial Intelligence, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are available [here](./assets/files/Talk_at_NEU_2024.pdf) (many thanks to Prof. Wai for presentation materials).
 - **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded Best Student Paper Award at IEEE SAM 2024!
 
