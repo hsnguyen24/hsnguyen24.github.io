@@ -12,7 +12,7 @@ Outside of work, my hobbies are cooking, falling in love with Asian cinema, and 
 representation learning, self-supervised learning, graph machine learning, graph signal processing, matrix factorization, domain translation, vision-language model, interpretability
 
 ## News
-- **[Sep. 2025]** Diverse influence component analysis is accepted at NeuRIPS 2025! We proposed a new approach to the hard problem of nonlinear mixture learning, via exploiting Jacobian geometry.
+- **[Sep. 2025]** Diverse influence component analysis is accepted at NeuRIPS 2025! We proposed a new approach to the hard problem of nonlinear mixture learning, via Jacobian geometry.
 - **[Sep. 2025]** A preprint on graph learning is available [here](https://arxiv.org/abs/2509.14887)! We show that graph learning from smooth signals is implicitly robust to missing data.
 - **[April 2025]** Our contribution on graph learning under partial observation was accepted at the Graph Signal Processing Workshop 2025. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and AI, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are [here](./assets/files/Talk_at_NEU_2024.pdf).
