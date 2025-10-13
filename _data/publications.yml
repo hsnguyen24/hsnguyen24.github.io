@@ -7,7 +7,21 @@ main:
     # poster: ./assets/files/sam2024_poster.pdf
     # url: https://arxiv.org/abs/2405.10001
     # page: https://arxiv.org/abs/2405.10001
+    image: ./assets/img/dica.png
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: "Learning Graph from Smooth Signals under Partial Observation: A Robustness Analysis"
+    authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
+    # conference_short: SAM
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2509.14887
+    # poster: ./assets/files/sam2024_poster.pdf
+    url: https://arxiv.org/abs/2509.14887
+    # page: https://arxiv.org/abs/2405.10001
+    image: ./assets/img/glsigrep_robustness.png
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
@@ -21,7 +35,7 @@ main:
     poster: ./assets/files/sam2024_poster.pdf
     url: https://arxiv.org/abs/2405.10001
     # page: https://arxiv.org/abs/2405.10001
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/sam.png
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
@@ -39,4 +53,4 @@ main:
     # page: https://ieeexplore.ieee.org/abstract/document/9747181/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/gf_stability.png
