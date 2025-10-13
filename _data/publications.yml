@@ -2,7 +2,7 @@ main:
   - title: "Diverse Influence Component Analysis: A Geometric Approach to Nonlinear Mixture Identifiability"
     authors: <strong>Hoang-Son Nguyen</strong>, Xiao Fu
     # conference_short: SAM
-    conference: Conference on Neural Information Processing Systems<strong>(NeuRIPS)</strong>, 2025.
+    conference: Conference on Neural Information Processing Systems <strong>(NeuRIPS)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2405.10001
     # poster: ./assets/files/sam2024_poster.pdf
     # url: https://arxiv.org/abs/2405.10001
