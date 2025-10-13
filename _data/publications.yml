@@ -1,7 +1,7 @@
 main:
   - title: "Diverse Influence Component Analysis: A Geometric Approach to Nonlinear Mixture Identifiability"
     authors: <strong>Hoang-Son Nguyen</strong>, Xiao Fu
-    # conference_short: SAM
+    conference_short: NeuRIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeuRIPS)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2405.10001
     # poster: ./assets/files/sam2024_poster.pdf
@@ -15,7 +15,7 @@ main:
 
   - title: "Learning Graph from Smooth Signals under Partial Observation: A Robustness Analysis"
     authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
-    # conference_short: SAM
+    conference_short: Preprint
     conference: Preprint, 2025.
     pdf: https://arxiv.org/pdf/2509.14887
     # poster: ./assets/files/sam2024_poster.pdf
@@ -29,7 +29,7 @@ main:
 
   - title: "On Detecting Low-pass Graph Signals under Partial Observations"
     authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
-    # conference_short: SAM
+    conference_short: SAM
     conference: IEEE Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.10001
     poster: ./assets/files/sam2024_poster.pdf
@@ -43,7 +43,7 @@ main:
 
   - title: "On the Stability of Low Pass Graph Filter with a Large Number of Edge Rewires"
     authors: <strong>Hoang-Son Nguyen</strong>, Yiran He, Hoi-To Wai
-    # conference_short: ICASSP
+    conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2110.07234
     slides: ./assets/files/icassp2022_slides.pdf
