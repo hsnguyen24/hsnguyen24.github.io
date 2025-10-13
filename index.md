@@ -2,16 +2,16 @@
 layout: homepage
 ---
 
-## About :blush:
+## About
 
 I'm Sean, an M.S. student at Oregon State University working with [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on representation learning and self-supervised learning, with applications in multimodal learning, generative modeling, and interpretability. I received my B.Eng. from The Chinese University of Hong Kong in 2024, working with [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on graph machine learning and signal processing.
 
 Outside of work, my hobbies are cooking, falling in love with Asian cinema, and photographing my friends whenever I can. Feel free to ping me an email for a coffee chat, work-related or not!
 
-## Research Interests :telescope:
+## Research Interests
 representation learning, self-supervised learning, graph machine learning, graph signal processing, matrix factorization, domain translation, vision-language model, interpretability
 
-## News :calendar:
+## News
 - **[Sep. 2025]** Diverse influence component analysis is accepted at **NeuRIPS 2025**! We proposed a new approach to the hard problem of nonlinear mixture learning, via Jacobian geometry.
 - **[Sep. 2025]** A preprint on graph learning is available [here](https://arxiv.org/abs/2509.14887)! We show that graph learning from smooth signals is implicitly robust to missing data.
 - **[April 2025]** Our contribution on graph learning under partial observation was accepted at the **Graph Signal Processing Workshop 2025**. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
@@ -20,7 +20,7 @@ representation learning, self-supervised learning, graph machine learning, graph
 
 {% include_relative _includes/publications.md %}
 
-## Awards :point_right: :point_left:
+## Awards
 
 - Best Student Paper Award at IEEE SAM, 2024
 - Professor Charles K. Kao Research Exchange Scholarship, 2023
