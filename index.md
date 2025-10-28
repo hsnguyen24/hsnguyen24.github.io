@@ -17,7 +17,7 @@ representation learning, self-supervised learning, graph machine learning, graph
 - **[April 2025]** Our contribution on graph learning under partial observation was accepted at the **Graph Signal Processing Workshop 2025**. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
 - **[September 2024]** I gave a talk on low-pass graph signal processing at [Faculty of Data Science and AI, National Economics University](https://fda.neu.edu.vn/) in Hanoi, Vietnam; the slides are [here](./assets/files/Talk_at_NEU_2024.pdf).
 - **[July 2024]** Our work on low-pass graph signal detection under partial observations was awarded Best Student Paper Award at **IEEE SAM 2024**! A preprint is [here](https://arxiv.org/abs/2405.10001). We show that performance of low-pass signal detector is not affected too much by nodes gone missing. That means we can apply these detectors to robustify graph learning methods or identify anomalies in networked systems, even under missing data.
-- 
+
 {% include_relative _includes/publications.md %}
 
 ## Awards
