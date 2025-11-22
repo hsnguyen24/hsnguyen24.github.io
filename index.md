@@ -12,7 +12,7 @@ Outside of work, my hobbies are cooking, falling in love with Asian [cinema](htt
 deep representation learning, self-supervised learning, graph machine learning, graph signal processing, matrix factorization, domain translation, multimodal learning
 
 ## News
-- **[Nov. 2025]** **I'm looking for a PhD position starting Fall 2026! Please feel free to contact me if there is a fit.**
+- **[Nov. 2025]** **I'm looking for a PhD position starting Fall 2026!**
 - **[Sep. 2025]** Diverse Influence Component Analysis is accepted at **NeuRIPS 2025**!
 - **[Sep. 2025]** A preprint on graph learning is available [here](https://arxiv.org/abs/2509.14887), showing that graph topology learning from smooth signals is implicitly robust to missing nodes.
 - **[April 2025]** Our contribution on graph learning under partial observation was accepted at the **Graph Signal Processing Workshop 2025**. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
