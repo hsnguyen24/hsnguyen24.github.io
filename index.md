@@ -6,7 +6,7 @@ layout: homepage
 
 I'm Sean, an M.S. student at Oregon State University working with [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on deep representation learning from first principles, with applications in multimodal learning, generative modeling, and interpretability. I received my B.Eng. from The Chinese University of Hong Kong (First Class Honours) in 2024, working with [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai) on graph machine learning and graph signal processing.
 
-Outside of work, my hobbies are cooking, falling in love with Asian [cinema](https://letterboxd.com/notseanthesheep/), and photographing my friends whenever I can. Feel free to ping me an email for a coffee chat, work-related or not!
+Outside of work, my hobbies are [cooking](https://cookpad.com/vn/nguoi-su-dung/18474087/), falling in love with Asian [cinema](https://letterboxd.com/notseanthesheep/), and [photographing](https://www.flickr.com/photos/portlandprince25/) my life and close friends whenever I can. Feel free to ping me an email for a coffee chat, work-related or not!
 
 ## Research Interests
 deep representation learning, self-supervised learning, graph machine learning, graph signal processing, matrix factorization, domain translation, multimodal learning
