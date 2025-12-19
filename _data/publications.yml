@@ -5,7 +5,7 @@ main:
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2510.17040
     poster: ./assets/files/neurips2025_poster.pdf
-    # url: https://arxiv.org/abs/2405.10001
+    url: https://neurips.cc/virtual/2025/loc/san-diego/poster/116093
     # page: https://arxiv.org/abs/2405.10001
     image: ./assets/img/dica.png
     code: https://github.com/hsnguyen24/dica
@@ -33,13 +33,13 @@ main:
     conference: IEEE Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.10001
     poster: ./assets/files/sam2024_poster.pdf
-    url: https://arxiv.org/abs/2405.10001
+    url: https://ieeexplore.ieee.org/abstract/document/10636468
     # page: https://arxiv.org/abs/2405.10001
     image: ./assets/img/sam.png
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+    notes: Best Student Paper Award
 
   - title: "On the Stability of Low Pass Graph Filter with a Large Number of Edge Rewires"
     authors: <strong>Hoang-Son Nguyen</strong>, Yiran He, Hoi-To Wai
