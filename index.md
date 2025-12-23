@@ -4,14 +4,14 @@ layout: homepage
 
 ## About
 
-I'm Sean, an M.S. student at Oregon State University working with [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on generative models that can provably learn a faithful, robust representation of real-world phenomena from observed data. To achieve this, I use a diverse toolkit from matrix factorization, self-supervised learning, signal processing, etc. to develop new representation learning methods from first principles.
+I'm Sean, an M.S. student at Oregon State University working with [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia). My current research focuses on generative models that can provably learn a faithful, robust representation of real-world phenomena from observed data. To achieve this, I use a diverse toolkit from self-supervised learning, signal processing, etc. to develop new representation learning methods from first principles.
 
 Previously, I received my B.Eng. from The Chinese University of Hong Kong in 2024, working with [Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai). In the beautiful city of [Hong Kong](https://www.youtube.com/@BreathArtHongKongCityWalk), I studied robust graph learning/graph signal processing against topology perturbation and missing data.
 
 Outside of work, my hobbies are [cooking](https://cookpad.com/vn/nguoi-su-dung/18474087/), falling in love with Asian [cinema](https://letterboxd.com/notseanthesheep/), and [photographing](https://www.flickr.com/photos/portlandprince25/) my life with close friends whenever I can. Feel free to ping me an email for a coffee chat, work-related or not!
 
 ## Research Interests
-representation learning, self-supervised learning, graph machine learning, graph signal processing, matrix factorization, multimodal learning, data attribution, data selection, compositional generalization
+representation learning, self-supervised learning, graph learning, graph signal processing, matrix factorization, multimodal learning, data attribution, data selection, compositionality
 
 ## News
 - **[Nov. 2025]** **I'm looking for a PhD starting Fall 2026!**
