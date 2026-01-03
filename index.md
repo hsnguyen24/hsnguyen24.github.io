@@ -11,7 +11,7 @@ Previously, I received my B.Eng. from The Chinese University of Hong Kong in 202
 Outside of work, my hobbies are [cooking](https://cookpad.com/vn/nguoi-su-dung/18474087/), falling in love with Asian [cinema](https://letterboxd.com/notseanthesheep/), and [photographing](https://www.flickr.com/photos/portlandprince25/) my life with close friends whenever I can. Feel free to ping me an email for a coffee chat, work-related or not!
 
 ## Research Interests
-- Deep representation learning: self-supervised learning, compositional generalization, causal representation learning, matrix/tensor factorization, identifiability, applications in sequential decision making and multimodal learning
+- Deep representation learning: self-supervised learning, compositional generalization, causal representation learning, matrix/tensor factorization, identifiability, multimodal learning
 - Graph learning and graph signal processing
 - Data-centric AI
 
