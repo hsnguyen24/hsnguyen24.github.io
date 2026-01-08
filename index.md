@@ -16,7 +16,7 @@ Outside of work, my hobbies are [cooking](https://cookpad.com/vn/nguoi-su-dung/1
 - Data-centric AI
 
 ## News
-- **[Nov. 2025]** **I'm looking for a PhD starting Fall 2026!**
+- **[Nov. 2025]** **I'm looking for a PhD starting Fall 2026!** My (naive) research statement is available [here](./assets/files/phd_sop.pdf).
 - **[Sep. 2025]** Diverse Influence Component Analysis is accepted at **NeurIPS 2025**!
 - **[Sep. 2025]** A preprint on graph learning is available [here](https://arxiv.org/abs/2509.14887), showing that graph topology learning from smooth signals is implicitly robust to missing nodes.
 - **[April 2025]** Our contribution on graph learning under partial observation was accepted at the **Graph Signal Processing Workshop 2025**. The poster is available [here](./assets/files/GSPW2025_Poster.pdf).
