@@ -15,8 +15,8 @@ main:
 
   - title: "Learning Graph from Smooth Signals under Partial Observation: A Robustness Analysis"
     authors: <strong>Hoang-Son Nguyen</strong>, Hoi-To Wai
-    conference_short: Preprint
-    conference: Preprint, 2025.
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2509.14887
     # poster: ./assets/files/sam2024_poster.pdf
     url: https://arxiv.org/abs/2509.14887
